@@ -1,7 +1,10 @@
+![Screenshot](https://github.com/user-attachments/assets/bfd16676-54a7-4c91-b8ea-f0c8b8b23b47)
+
 # Smart Voice Assistant for Professionals
 
 ## 📌 Overview
-Smart Voice Assistant for Professionals is a **React Native** mobile application that records voice conversations, transcribes them into text, and extracts actionable insights such as tasks, calendar events, and meeting notes. It helps professionals stay engaged in conversations while ensuring that no key information is missed.
+Smart Voice Assistant for Professionals is a **React Native** mobile application that records voice conversations, transcribes them into text, and extracts actionable insights such as tasks, calendar events, and meeting notes. It helps professionals stay engaged in conversatio
+ns while ensuring that no key information is missed.
 
 ## 🚀 Features
 ### 1️⃣ Voice Processing
